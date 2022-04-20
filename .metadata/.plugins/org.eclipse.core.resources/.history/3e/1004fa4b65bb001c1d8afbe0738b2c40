@@ -1,0 +1,6 @@
+package br.com.factory;
+
+public interface FormaGeometrica {
+	
+	String nomeObjeto();
+}

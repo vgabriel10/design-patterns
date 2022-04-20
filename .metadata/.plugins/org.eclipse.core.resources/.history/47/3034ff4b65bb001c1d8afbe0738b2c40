@@ -1,0 +1,8 @@
+package br.com.factory;
+
+public class Triangulo implements FormaGeometrica {
+
+	public String nomeObjeto() {
+		return "Triangulo";
+	}
+}
